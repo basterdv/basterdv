@@ -2,9 +2,11 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center"> IT freelancer from Russia 🇷🇺</h3>
 
-🌱 I’m currently learning  python, web,FastApi, SQL, Django
-📫 How to reach me baster1@list.ru
-🌍 I speak Russian (native), English (B2), Japan(B1)
+<ul>
+  <li>🌱 I’m currently learning  python, web,FastApi, SQL, Django </li>
+  <li>📫 How to reach me baster1@list.ru</li>
+  <li>🌍 I speak Russian (native), English (B2), Japan(B1)</li>
+</ul>
 
 Connect with me:
 
