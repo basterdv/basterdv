@@ -2,6 +2,13 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center"> IT freelancer from Russia 🇷🇺</h3>
 
+🌱 I’m currently learning  python, web,FastApi, SQL, Django
+📫 How to reach me baster1@list.ru
+🌍 I speak Russian (native), English (B2), Japan(B1)
+
+Connect with me:
+
+
 <!--
 **basterdv/basterdv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
